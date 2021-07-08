@@ -1,0 +1,20 @@
+body{
+     background-image: url("images/slika2.jpg");
+     height: 100%;
+}
+
+.txt-center{
+    margin: 0;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-back{
+   height: 100%;
+   width: 100%;
+
+}
+
